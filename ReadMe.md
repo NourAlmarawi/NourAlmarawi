@@ -52,7 +52,8 @@ https://github.com/NourAlmarawi/odoo17_shipment_offers <br>
 ### **7. IZUBOT**
 **Goal:**  create a chatbot for university website to assist students with common inquiries. learn language models and chatbot integration.<br>
 **Description:**  simple chatbot that uses SBERT (Sentence-BERT) to match the user's questions with a predefined set of FAQs and provide relevant answers.<br>
-**Tech Stack:**  Python, HuggingFace, SBERT, Flask, NLP.<br>
+**Tech Stack:**  Python, HuggingFace, SBERT, Flask, NLP. <br>
+
 ---
 
 ## 🧰 Skills Used Across Projects
