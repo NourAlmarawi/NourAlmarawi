@@ -1,9 +1,4 @@
 # Nour Almarrawi – Software Projects Portfolio
-
-**Email:** noorhalmarawe@example.com  
-**GitHub:** https://github.com/NourAlmarawi
-**LinkedIn:** https://www.linkedin.com/in/nour-almarrawi/  
-
 ---
 
 ## 🚀 Featured Projects
